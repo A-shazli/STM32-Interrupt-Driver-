@@ -1,0 +1,7 @@
+"Drivers/src/7-seg.o"
+"Drivers/src/gpio.o"
+"Drivers/src/interupt.o"
+"src/main.o"
+"src/syscalls.o"
+"src/system_stm32f4xx.o"
+"startup/startup_stm32.o"
